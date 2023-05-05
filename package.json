@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "node server.js",
-    "build": "node server.js"
+    "build": "echo 'No build necessary for a Node.js app'"
   }
+  
 }
